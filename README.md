@@ -1,3 +1,17 @@
+NFT Gallery
+
+Retrieve NFTs based on user address/ filter by collection or browse collections.
+
+uses
+
+- react
+- nextjs
+- tailwindcss
+- js
+
+from alchemy university
+@tutor: @vittostack
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
